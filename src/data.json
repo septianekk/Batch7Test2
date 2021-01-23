@@ -1,0 +1,21 @@
+[
+  {
+    "type": "radio",
+    "soal": "Siapakah penemu baling-baling bambu",
+    "a": "doraemon",
+    "b": "suneo",
+    "c": "nobita",
+    "d": "naruto",
+    "jawab": "a"
+  },
+  {
+    "type": "checkbox",
+    "soal": "Pilihlah 3 yang benar mengenai aqil",
+    "option": ["Trainer Juara Coding", "Manusia", "Anggota Avenger"],
+    "jawab": ["Manusia", "Anggota Avengers"]
+  },
+  {
+    "type": "essay",
+    "soal": "Ceritakan pengalaman anda ketika sedang tidur"
+  }
+]
